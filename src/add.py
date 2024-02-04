@@ -9,3 +9,6 @@ def add(a:int, b:int) -> int:
         Sum of a + b which is also an integer
     '''
     return a + b
+
+def absolute_value(a):
+    return(abs(a))
